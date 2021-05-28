@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PBrunoCyber/cybertex_covid/issues"
   },
-  "homepage": "https://github.com/PBrunoCyber/cybertex_covid#readme"
+  "homepage": "https://github.com/PBrunoCyber/cybertex_covid#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
